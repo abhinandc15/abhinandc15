@@ -3,7 +3,7 @@
 
 <!-- **abhinandc15/abhinandc15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is Abhinand, I'm a mechanical engineering graduate looking to switch the my domain and get into the data science industry🌱. Currently upskilling myself through various courses, bootcamps and random stuffs.  
+My name is Abhinand, I'm a mechanical engineering graduate looking to switch  my domain and get into the data science industry🌱. Currently upskilling myself through various courses, bootcamps and random stuffs.  
 
 <!-- ![GitHub Follow](https://img.shields.io/github/followers/abhinandc15.svg?style=social&label=Follow) -->
 <!-- ![GitHub Star](https://img.shields.io/github/stars/abhinandc15?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star) -->
